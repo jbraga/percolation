@@ -1,4 +1,4 @@
-# Coursera - Algorithms, Part I
+# Algorithms, Part I
 
 ## Programming Assignment: Percolation
 
